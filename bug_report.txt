@@ -1,0 +1,6 @@
+Title:The content is not displayed on page
+STR:1.Open site
+    2.Hower over Home button
+    3.Click on Fabrick link
+Expected result:The content is displayed on the Fabrick page
+Actual resukt: The content is not displayed on the Fabrick page
