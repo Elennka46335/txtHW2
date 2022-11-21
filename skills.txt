@@ -1,0 +1,5 @@
+learning how to write bug reports
+design and execute check list and test case
+testing theory 
+command line
+git
